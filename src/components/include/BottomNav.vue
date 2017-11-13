@@ -56,7 +56,6 @@
     font-size: 2em;
   }
 
-
   .footer-group {
     padding: 30px;
   }
@@ -65,6 +64,9 @@
     border: 1px solid #8F8F8F;
     padding: 10px 20px;
     margin: 0 5px;
+  }
+  .first-child:first-child {
+    margin-left: 10px;
   }
   .second-child, .last-child {
     padding: 10px 0;

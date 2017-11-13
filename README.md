@@ -65,7 +65,7 @@ npm install n -g
 # n --lts :: check lts version
 
 # change authority
-sudo chown ubuntu:ubuntu directory-name
+sudo chown ubuntu:ubuntu directory
 
 ```
 node.js install on ubuntu [guide](http://www.tutorialbook.co.kr/entry/Ubuntu-1404-%EC%97%90-NodeJS-%EC%84%A4%EC%B9%98-%EB%B0%8F-nodejs-%EB%B2%84%EC%A0%84-%EB%B3%80%EA%B2%BD%EC%9A%A9-n-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%AC%EC%9A%A9%EB%B2%95)
